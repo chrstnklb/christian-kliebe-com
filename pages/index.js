@@ -2,6 +2,7 @@ import Head from "next/head";
 import Header from "@components/Header";
 import Footer from "@components/Footer";
 import Mail from "@components/Mail";
+import Portfolio from "@components/Portfolio/Portfolio";
 
 export default function Home() {
   return (
@@ -13,7 +14,9 @@ export default function Home() {
 
       <main>
         <Header title="Christian Kliebe" />
-        <Mail mailLink={"mailto:christian.kliebe@outlook.com"}></Mail>
+        <Mail mailLink="mailto:christian.kliebe@outlook.com"></Mail>
+        <Portfolio />
+        <Mail mailLink="mailto:christian.kliebe@outlook.com"></Mail>
       </main>
 
       <Footer />
