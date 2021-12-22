@@ -2,7 +2,7 @@
 
 <h1>
 
-**👉🏽 [Link to my page](https://www.christian.kliebe.com)**
+**👉🏽 [Link to my page](https://www.christiankliebe.com)**
 
 </h1>
 
